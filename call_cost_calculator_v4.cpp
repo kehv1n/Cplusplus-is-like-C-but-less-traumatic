@@ -158,7 +158,7 @@ void Input(ifstream & in, call_record & customer_record){
     in >> customer_record.relays;
     in >> customer_record.call_length;
 
-
+    
 }
 
 

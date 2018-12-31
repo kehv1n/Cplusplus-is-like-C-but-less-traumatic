@@ -10,7 +10,7 @@ Professor: Dr. Lofton Bullard
 Description: 
   In this assignment  a program a call management system is implemented.  
   The program used three functions:input, output, and process.  The function 
-  input gets input from the user, the function process performsthe necessary calculations, 
+  input gets input from the user, the function process performs the necessary calculations,
   and the function output prints the results.  
 ***/ 
 
